@@ -278,7 +278,7 @@ nmcli connection modify "NetworkName" ipv6.method "disabled"
 
 ## Author
 
-**Kenneth** — Aspiring Cybersecurity Professional  
+**Aaron G** — Aspiring Cybersecurity Professional  
 Currently pursuing: Google Cybersecurity Professional Certificate  
 Next certifications: CompTIA Security+, Linux+, Network+  
 
